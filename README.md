@@ -1,5 +1,11 @@
 # Token Radar
 
+[![make.fun](https://make.fun/badge/token-radar-01.svg)](https://make.fun/bounty/token-radar-01)
+[![rank](https://make.fun/badge/token-radar-01/Herman-234/token-radar/rank.svg)](https://make.fun/bounty/token-radar-01)
+[![reward](https://make.fun/badge/token-radar-01/Herman-234/token-radar/reward.svg)](https://make.fun/bounty/token-radar-01)
+
+Entry for the make.fun bounty: https://make.fun/bounty/token-radar-01
+
 A radar for protocols that record no token yet, ranked by what their launch would be
 worth, each with the steps to farm it.
 
